@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2024 Orcro Limited <team@orcro.co.uk>
+SPDX-License-Identifier: CC0-1.0
+-->
+
 # Overview
 
 This is a document to explore model provisions for OpenChain ISO/IEC 5230 or ISO/IEC DIS 18974 in corporate transactions.
