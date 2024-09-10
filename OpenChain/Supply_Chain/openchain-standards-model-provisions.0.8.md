@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2024 Orcro Limited <team@orcro.co.uk>
+SPDX-License-Identifier: CC0-1.0
+-->
+
 ## OpenChain Model Procurement Language - A Reference Guide
 
 ## Version 1.0 DRAFT (currently version 0.7, a release candidate)
