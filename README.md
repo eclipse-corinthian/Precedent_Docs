@@ -14,13 +14,13 @@ We intend to develop a simple and clear web frontend, meaning that users who don
 
 ## Overview
 
-The initial set of documents was developed by Moorcrofts LLP in association with Orcro Limited, both based in the UK. Orcro is an OpenChain partner organisation (openchainproject.org) and has been working to develop the following sets of documents:-
+The initial set of documents was developed by Moorcrofts LLP in association with Orcro Limited, both based in the UK. Orcro is an OpenChain partner organisation (openchainproject.org) and has been working to develop the following sets of documents:
 
-1. a due diligence questionnaire and set of warranties for acquiring software from a developer using open source software; and
+1. A due diligence questionnaire and set of warranties for acquiring software from a developer using open source software; and
 
-2. a due diligence questionnaire and set of warranties for use in M&A transactions involving a target which develops software using open source.
+2. A due diligence questionnaire and set of warranties for use in M&A transactions involving a target which develops software using open source.
 
- We also have a suite of documents drafted to facilitate the supply of services over the internet using microtransaction architectures, which have also been developed by specialist law firms in a number of jurisdictions worldwide. The roadmap includes the development of software intended to facilitate the drafting, assembly, storage and analysis of legal documents. For example, since drafting contracts shares many characteristics with writing software, we propose developing a module for the Eclipse IDE which facilitates this.
+We also have a suite of documents drafted to facilitate the supply of services over the internet using microtransaction architectures, which have also been developed by specialist law firms in a number of jurisdictions worldwide. The roadmap includes the development of software intended to facilitate the drafting, assembly, storage and analysis of legal documents. For example, since drafting contracts shares many characteristics with writing software, we propose developing a module for the Eclipse IDE which facilitates this.
 
 ## Due diligence and warranties for open source development: procurement and M&A
 
@@ -31,5 +31,18 @@ A much more effective approach is to focus the warranties on the development pro
 The initial set of due diligence questions for procurement has been developed using the ISO5230 framework, with the input from many active members of the OpenChain project, and the procurement terms have themselves been adapted to form the M&A due diligence and warranty suite.
 
 ## Contributing
-We welcome contributions for any interested people. Contributions will only be accepted where the contributor has signed the Deverloper Certificate of Origin. The relevant licences are Creative Commons Zero v1.0 Universal (SPDX: CC0-1.0) and the BSD Zero Clause License (SPDX: 0BSD) (for documentation). Code is accepted under the BSD Zero Clause License (or, for code projects with a stated out-licence of Apache License 2.0 (SPDX: Apache-2.0) or Eclipse Public License 2.0 (SPDX: EPL-2.0), under the corresponding in-licence). See the relevant code repo for details of the licensing applicable to the code in that repo. See the relevant CONTRIBUTING.MD file for more information.
+
+We welcome contributions from any interested people. Contributions will only be accepted where the contributor has signed the [Eclipse Contributor Agreement](https://www.eclipse.org/legal/eca/). To sign that, a prospective contributor will need to create an Eclipse account using the same email address that the GitHub contribution will be made with. The steps are straightforward and more information can be found in [eclipse-collections/CONTRIBUTING.md](https://github.com/eclipse/eclipse-collections/blob/master/CONTRIBUTING.md).
+
+The relevant licences for the Corinthian project are:
+
+- For the template documents: [Creative Commons Zero v1.0 Universal]() (SPDX: CC0-1.0);
+
+- For documentation: [BSD Zero Clause License](https://spdx.org/licenses/0BSD.html) (SPDX: 0BSD);
+
+- For code, one of the following (depending on the stated out-licence of the sub-project): BSD Zero Clause License, [Apache License 2.0](https://spdx.org/licenses/Apache-2.0.html) (SPDX: Apache-2.0) or [Eclipse Public License 2.0](https://spdx.org/licenses/EPL-2.0.html) (SPDX: EPL-2.0).
+
+Licence texts can be found under [LICENSES/](LICENSES/) or via the hyperlinks above.
+
+For more specific information see the relevant project files themselves.
 
